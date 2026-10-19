@@ -1,0 +1,11 @@
+{
+  "name": "KaravanWebasto",
+  "version": "0.2.0-clean",
+  "target": "iOS 17+",
+  "protocol_family": "HeatGenie/Boygu",
+  "service_uuid": "181A",
+  "preferred_notify": "3A00",
+  "preferred_write": "3A01",
+  "thermostat": "app-side START/STOP thresholds",
+  "build": "GitHub Actions / macos-15 / Xcode 16.4"
+}
